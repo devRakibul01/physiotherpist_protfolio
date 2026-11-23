@@ -1,0 +1,12 @@
+{
+  "name": "Md. Waheduzzaman Maruf — Senior Physiotherapist",
+  "short_name": "W. Maruf",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#087E83",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
